@@ -76,7 +76,7 @@ http://localhost:3000
 <body>
 ...
 ...
-script src="js/chat.js"></script>
+<script src="js/chat.js"></script>
 </body>
 ```
 
